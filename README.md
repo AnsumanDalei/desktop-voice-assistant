@@ -34,6 +34,12 @@ A Python-based AI voice assistant that performs tasks like Wikipedia search, ope
 
 ---
 
+## 📄 Project Report
+
+[📑 View PDF Report](./desktop_voice_assistant_project.pdf)
+
+---
+
 ## 💻 Installation & Run
 
 ```bash
